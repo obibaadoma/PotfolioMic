@@ -1,12 +1,4 @@
-<a name="readme-top"></a>
-
-<div align="center">
-  <br/>
-
-  <h3><b>Portfolio: setup and mobile first</b></h3>
-
-</div>
-
+<h3><b>Portfolio: setup and mobile first</b></h3>
 
 # 📗 Table of Contents
 
@@ -35,17 +27,34 @@
 
 Project Description:
 
-The objective of this project is to create a one-page responsive portfolio website that effectively showcases previous personal projects. The main tasks involved in this project include configuring an HTML-CSS linter based on provided guidelines, designing the website with a focus on mobile devices, and implementing the design.
-By following these guidelines and requirements, we aim to create a visually appealing and user-friendly portfolio website that highlights your past projects in an accessible manner.
-
+The objective of this project is to create a one-page responsive portfolio website that effectively showcases previous personal projects.
 ## 🛠 Built With <a name="built-with"></a>
 
-- HTML & CSS & JavaScript
+- HTML & CSS
 - Git, Github and Visual Studio Code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demoemo <a name="#live-demo"></a>
+## 🚀 Live Demoemo <a name="not available"></a>
+
+💻 Getting Started
+This project shows tools and best practices a developer must master when creating files, 
+branches and changes in a project.
+
+Prerequisites
+In order to run this project you need:
+
+VS Code editor
+
+Setup
+Clone this repository to your desired folder:
+
+https://github.com/obibaadoma/HelloMic
+
+Install
+Install this project with:
+
+VS Code, downloading repo.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🛠 Built With <a name="built-with"></a>
@@ -58,13 +67,10 @@ By following these guidelines and requirements, we aim to create a visually appe
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> In order to run this project you need:
 
-To get a local copy up and running, follow these steps.
-
+VS Code editor
 ### Prerequisites
-
-In order to run this project you need:
 
 To get a local copy up and running follow these simple example steps.
 
@@ -76,8 +82,6 @@ To get a local copy up and running follow these simple example steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
@@ -87,7 +91,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@githubhandle](https://github.com/obibaadoma/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/derek-akrasi-konadu-187453151/)
 
-👤 **Alejandro Bernal**
 
 - GitHub: [@githubhandle](https://www.linkedin.com/in/derek-akrasi-konadu-187453151)
 
