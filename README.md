@@ -23,7 +23,7 @@
 - [📝 License](#license)
 
 
-# 📖 [Mobile-First-Portfolio] <a name="about-project"></a>
+# 📖 [Finish Portfolio] <a name="about-project"></a>
 
 Project Description:
 
@@ -49,7 +49,7 @@ VS Code editor
 Setup
 Clone this repository to your desired folder:
 
-https://github.com/obibaadoma/HelloMic.git
+https://github.com/obibaadoma/PotfolioMic.git
 
 Install
 Install this project with:
@@ -69,13 +69,16 @@ To get a local copy up and running follow these simple example steps.
 
 - Choose a directory
 - Open a Terminal
-- write: git clone https://github.com/obibaadoma/HelloMic.git
+- write: git clone https://github.com/obibaadoma/PotfolioMic.git
 - get into to directory "Portfolio: setup and mobile first"
 - write: npm install
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
+
+## 👥 Future Features <a name="authors"></a>
+[Add Contact Page]
 
 > Mention all of the collaborators of this project.
 

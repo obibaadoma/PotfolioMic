@@ -563,7 +563,7 @@ body.active {
 
 .go-newmes:hover {
   transform: scale(1.1);
-  background-color: rgb(19, 4, 72);
+  background-color: #6070ff;
   color: rgb(223, 225, 230);
 }
 
@@ -709,14 +709,16 @@ body.active {
   box-sizing: border-box;
   width: 327px;
   height: 72px;
-  padding: 0;
+  padding: 45;
   margin-left: -25px;
   display: flex;
-  gap: 80px;
+  gap: 85px;
   list-style-type: none;
+  align-items: center;
+  justify-content: start;
 }
 
-.event7 h3 {
+.event7 li {
   height: 24px;
   right: 78px;
   top: calc(50% - 24px / 2);
@@ -764,6 +766,7 @@ body.active {
   margin-top: -40px;
   margin-left: -24px;
   box-sizing: border-box;
+  list-style: none;
 }
 
 .event9 {
@@ -968,39 +971,43 @@ form textarea {
   box-sizing: border-box;
   width: 327px;
   height: 72px;
-  padding: 0 26px;
+  padding: 0 20px;
   margin-left: -16px;
   display: flex;
-  align-items: initial;
-  gap: 158px;
+  align-items: center;
+  gap: 178px;
   margin-top: -10px;
   border-bottom: 1px solid rgb(223, 225, 230);
+  list-style: none;
+  justify-content: start;
 }
 
 .eventskill {
   box-sizing: border-box;
   width: 327px;
   height: 72px;
-  padding: 0 26px;
-  margin-left: 1px;
+  padding: 0;
+  margin-left: 5px;
   display: flex;
+  justify-content: start;
   align-items: initial;
-  gap: 230px;
+  gap: 235px;
   margin-top: -10px;
   border-bottom: 1px solid rgb(223, 225, 230);
+  list-style: none;
 }
 
 .event18 h3,
 .event17 h3 {
   display: block;
   height: 63.99px;
-  width: 112.11px;
+  width: 500px;
   margin-left: 18px;
   box-sizing: border-box;
   text-decoration: none;
   font-family: "Poppins", sans-serif;
-  font-style: normal;
-  font-weight: bold;
+  font-style: bolder;
+  font-weight: bolder;
   font-size: 20px;
   line-height: 24px;
   color: #000;
@@ -1009,8 +1016,8 @@ form textarea {
   align-items: center;
 }
 
-.event17 a h3,
-.event18 a h3 {
+.event17 a li,
+.event18 a li {
   top: calc(50% - 24px / 2);
   font-family: "Poppins", sans-serif;
   font-style: normal;
@@ -1023,13 +1030,13 @@ form textarea {
   width: 279px;
   padding: 0 24px;
   margin-left: 0;
-  margin-top: -10px;
+  margin-top: 10px;
 }
 
 .event-skill {
   width: 295px;
   height: 144px;
-  padding: 0;
+  padding: 0 20px;
   display: flex;
   flex-direction: column;
   gap: 10px;
