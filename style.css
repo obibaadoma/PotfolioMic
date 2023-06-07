@@ -544,11 +544,12 @@ body.active {
   box-sizing: border-box;
   padding: 12px;
   width: fit-content;
-  /*align-items: center;
+
+  /* align-items: center;
   width: 140px;
   height: 48px;
   left: 0;
-  top: calc(50% - 48px / 2);*/
+  top: calc(50% - 48px / 2); */
   border: 1px solid #6070ff;
   border-radius: 8px;
   background-color: #fff;
@@ -1045,7 +1046,7 @@ form textarea {
   display: flex;
   flex-direction: column;
   padding-top: 10vh;
-} 
+}
 
 .contact-derek h2 {
   color: white;
@@ -1105,10 +1106,11 @@ hr.rounded {
   align-items: center;
   margin-left: 20px;
   margin-top: 20px;
-  /*width: 12vw;
+
+  /* width: 12vw;
   height: 9vh;
   left: 0;
-  top: calc(50% - 48px / 2);*/
+  top: calc(50% - 48px / 2); */
   border: 1px solid white;
   border-radius: 8px;
   background-color: #fff;
