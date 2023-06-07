@@ -544,12 +544,6 @@ body.active {
   box-sizing: border-box;
   padding: 12px;
   width: fit-content;
-
-  /* align-items: center;
-  width: 140px;
-  height: 48px;
-  left: 0;
-  top: calc(50% - 48px / 2); */
   border: 1px solid #6070ff;
   border-radius: 8px;
   background-color: #fff;
@@ -667,25 +661,6 @@ body.active {
   width: 295px;
   height: 72px;
   top: 216px;
-}
-
-.go-new-code {
-  box-sizing: border-box;
-  align-items: center;
-  padding: 12px;
-  width: 140px;
-  height: 48px;
-  top: calc(50% - 48px / 2);
-  border: 1px solid #6070ff;
-  border-radius: 8px;
-  background-color: #fff;
-  font-family: "Poppins", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 17px;
-  line-height: 24px;
-  display: flex;
-  color: #396df2;
 }
 
 .skill {
@@ -877,6 +852,7 @@ form input {
   background: white;
   padding: 8px;
   border-radius: 8px;
+  border-style: none;
 }
 
 .contact input {
@@ -1005,8 +981,6 @@ form textarea {
   font-size: 20px;
   line-height: 24px;
   color: #000;
-
-  /* display: flex; */
   align-items: center;
 }
 
@@ -1109,11 +1083,9 @@ hr.rounded {
   align-items: center;
   margin-left: 20px;
   margin-top: 20px;
-
-  /* width: 12vw;
   height: 9vh;
   left: 0;
-  top: calc(50% - 48px / 2); */
+  top: calc(50% - 48px / 2);
   border: 1px solid white;
   border-radius: 8px;
   background-color: #fff;
@@ -1125,4 +1097,33 @@ hr.rounded {
   display: flex;
   color: #396df2;
   transition: transform 0.4s ease-in-out;
+}
+
+.contButton {
+  box-sizing: border-box;
+  padding: 12px;
+  width: fit-content;
+  border: 1px solid #6070ff;
+  border-radius: 8px;
+  background-color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  display: flex;
+  color: #396df2;
+  transition: transform 0.4s ease-in-out;
+  margin-left: 17px;
+  margin-top: 10px;
+}
+
+.contButton:hover {
+  transform: scale(1.1);
+  background-color: #6070ff;
+  color: rgb(223, 225, 230);
+}
+
+.contact-derek.active {
+  background-color: #2230d2;
 }
