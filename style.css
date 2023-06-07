@@ -1041,11 +1041,14 @@ form textarea {
 }
 
 .contact-derek {
+  background-image: url(images/contact-form-shapes-mobile.png);
+  background-size: contain;
   background-color: #6070ff;
   border-top-left-radius: 5em;
   display: flex;
   flex-direction: column;
   padding-top: 10vh;
+  background-position: right;
 }
 
 .contact-derek h2 {
