@@ -83,6 +83,7 @@ To get a local copy up and running follow these simple example steps.
 > Mention all of the collaborators of this project.
 
 👤 **Derek Akrasi Konadu**
+   **David Leiva**
 
 - GitHub: [@githubhandle](https://github.com/obibaadoma/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/derek-akrasi-konadu-187453151/)
