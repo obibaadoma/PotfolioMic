@@ -79,7 +79,7 @@ To get a local copy up and running follow these simple example steps.
 
   **Derek Akrasi Konadu**
        **David Leiva**
-
+      **Soban Syeed**
 ## 👥 Future Features <a name="authors"></a>
 [Javascript will be included for further interactivity]
 
@@ -88,6 +88,11 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/derek-akrasi-konadu-187453151/)
 
 - GitHub: [@githubhandle](https://www.linkedin.com/in/derek-akrasi-konadu-187453151)
+
+- GitHub: [@SnakyMz](https://github.com/SnakyMz)
+- Twitter: [@SobanSyeed](https://twitter.com/SobanSyeed)
+- LinkedIn: [Soban Syeed](https://www.linkedin.com/in/soban-syeed-82985b241/)
+
 
 ## 🤝 Contributing <a name="contributor"></a>
 
