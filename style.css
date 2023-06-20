@@ -79,6 +79,9 @@ nav {
   background-color: #6070ff;
   mix-blend-mode: multiply;
   backdrop-filter: blur(8px);
+  left: 0;
+  right: 0;
+  min-width: 375px;
 }
 
 .nav-link a {
