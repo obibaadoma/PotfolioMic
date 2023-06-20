@@ -23,7 +23,7 @@
 - [📝 License](#license)
 
 
-# 📖 [Mobile-First-Portfolio] <a name="about-project"></a>
+# 📖 [Finish Portfolio] <a name="about-project"></a>
 
 Project Description:
 
@@ -49,7 +49,7 @@ VS Code editor
 Setup
 Clone this repository to your desired folder:
 
-https://github.com/obibaadoma/HelloMic.git
+https://github.com/obibaadoma/PotfolioMic.git
 
 Install
 Install this project with:
@@ -69,7 +69,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Choose a directory
 - Open a Terminal
-- write: git clone https://github.com/obibaadoma/HelloMic.git
+- write: git clone https://github.com/obibaadoma/PotfolioMic.git
 - get into to directory "Portfolio: setup and mobile first"
 - write: npm install
 
@@ -77,14 +77,22 @@ To get a local copy up and running follow these simple example steps.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+  **Derek Akrasi Konadu**
+      **David Leiva**
+      **Soban Syeed**
+## 👥 Future Features <a name="authors"></a>
+[Javascript will be included for further interactivity]
 
-👤 **Derek Akrasi Konadu**
 
 - GitHub: [@githubhandle](https://github.com/obibaadoma/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/derek-akrasi-konadu-187453151/)
 
 - GitHub: [@githubhandle](https://www.linkedin.com/in/derek-akrasi-konadu-187453151)
+
+- GitHub: [@SnakyMz](https://github.com/SnakyMz)
+- Twitter: [@SobanSyeed](https://twitter.com/SobanSyeed)
+- LinkedIn: [Soban Syeed](https://www.linkedin.com/in/soban-syeed-82985b241/)
+
 
 ## 🤝 Contributing <a name="contributor"></a>
 
