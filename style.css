@@ -66,6 +66,7 @@ nav {
 }
 
 .pop {
+  display: none;
   position: absolute;
   margin: 0;
   padding: 30% 0 0 0;
@@ -87,7 +88,7 @@ nav {
   font-size: 32px;
   font-weight: 600;
   line-height: 44px;
-  letter-spacing: 0em;
+  letter-spacing: 0;
   text-align: left;
 }
 
